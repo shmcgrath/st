@@ -71,12 +71,12 @@ features that make it literally the best terminal emulator ever:
 ## Pretty stuff
 
 + Compatibility with `Xresources` and `pywal` for dynamic colors.
-+ Default [gruvbox](https://github.com/morhetz/gruvbox) colors otherwise.
++ Default Xdefaults colors otherwise.
 + Transparency/alpha, which is also adjustable from your `Xresources`.
 + Default font is system "mono" at 14pt, meaning the font will match your
   system font.
 
-## Installation for newbs
+## Installation
 
 You should have xlib header files and libharfbuzz build files installed.
 
@@ -119,7 +119,6 @@ The `alpha` value (for transparency) goes from `0` (transparent) to `1`
 
 To be clear about the color settings:
 
-- This build will use gruvbox colors by default and as a fallback.
 - If there are Xresources colors defined, those will take priority.
 - But if `wal` has run in your session, its colors will take priority.
 
