@@ -32,3 +32,17 @@ Credits
 -------
 Based on Aurélien APTEL <aurelien dot aptel at gmail dot com> bt source code.
 
+My Patches
+----------
+- [font2](https://st.suckless.org/patches/font2/)
+- [one clipboard](https://st.suckless.org/patches/clipboard/)
+- [scrollback](https://st.suckless.org/patches/scrollback/)
+- [title parsing fix](https://st.suckless.org/patches/title_parsing_fix/)
+- [visualbell](https://st.suckless.org/patches/visualbell/)
+- [w3m](https://st.suckless.org/patches/w3m/)
+- [xresources](https://st.suckless.org/patches/xresources/)
+
+My Possible Patches
+-------------------
+- [swapmouse](https://st.suckless.org/patches/swapmouse/)
+- [vim browse](https://st.suckless.org/patches/vim_browse/)
